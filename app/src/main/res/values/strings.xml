@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MagicBallMVVM</string>
+    <string name="tv_mensaje">Hola,preguntame algo!</string>
+</resources>
